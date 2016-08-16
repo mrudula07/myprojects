@@ -1,0 +1,49 @@
+﻿body {    height: 1571px;
+}
+
+.label_errormessage
+{
+	font-family: Arial,Times New Roman,Trebuchet MS,Sans-Serif;
+	font-size: 13px;
+	font-weight: bold;
+	text-align: left;
+	color: Red;
+	text-transform: none;
+	text-align: center;
+	padding-left: 5px;
+	text-decoration:none;
+}
+
+.gray-page-title {
+	font-family: verdana, arial, tahoma;
+	font-size: 20px;
+	font-weight: none;
+	color: #596062;
+	text-decoration: none;
+}
+
+.blue-title01 {
+	font-family: verdana, arial, tahoma;
+	font-size: 14px;
+	font-weight: bold;
+	color: #02aeef;
+	text-decoration: none;
+	background-color: #fdfbef;
+	border-bottom: #d6d6d6 1px solid;
+	border-top: #d6d6d6 1px solid;
+	border-right: #d6d6d6 1px solid;
+	border-left: #d6d6d6 1px solid;
+}
+
+.text-box-yellow{
+	background-color: #fdfbef;
+	border-bottom: #d6d6d6 1px solid;
+	border-top: #d6d6d6 1px solid;
+	border-right: #d6d6d6 1px solid;
+	border-left: #d6d6d6 1px solid;
+	font-family: verdana, arial, tahoma;
+	font-size: 12px;
+	font-weight: normal;
+	color: #5c5c5c;
+	text-decoration: none;
+}

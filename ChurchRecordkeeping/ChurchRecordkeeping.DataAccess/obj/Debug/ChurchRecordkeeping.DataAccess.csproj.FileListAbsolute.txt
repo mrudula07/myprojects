@@ -1,0 +1,9 @@
+C:\Users\Amit\Documents\Visual Studio 2010\Projects\ChurchRecordkeeping\ChurchRecordkeeping.DataAccess\bin\Debug\ChurchRecordkeeping.DataAccess.dll
+C:\Users\Amit\Documents\Visual Studio 2010\Projects\ChurchRecordkeeping\ChurchRecordkeeping.DataAccess\bin\Debug\ChurchRecordkeeping.DataAccess.pdb
+C:\Users\Amit\Documents\Visual Studio 2010\Projects\ChurchRecordkeeping\ChurchRecordkeeping.DataAccess\obj\Debug\ChurchRecordkeeping.DataAccess.dll
+C:\Users\Amit\Documents\Visual Studio 2010\Projects\ChurchRecordkeeping\ChurchRecordkeeping.DataAccess\obj\Debug\ChurchRecordkeeping.DataAccess.pdb
+D:\LatestCRK\LatestCRK\ChurchRecordkeeping\ChurchRecordkeeping.DataAccess\bin\Debug\ChurchRecordkeeping.DataAccess.dll
+D:\LatestCRK\LatestCRK\ChurchRecordkeeping\ChurchRecordkeeping.DataAccess\bin\Debug\ChurchRecordkeeping.DataAccess.pdb
+D:\LatestCRK\LatestCRK\ChurchRecordkeeping\ChurchRecordkeeping.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\LatestCRK\LatestCRK\ChurchRecordkeeping\ChurchRecordkeeping.DataAccess\obj\Debug\ChurchRecordkeeping.DataAccess.dll
+D:\LatestCRK\LatestCRK\ChurchRecordkeeping\ChurchRecordkeeping.DataAccess\obj\Debug\ChurchRecordkeeping.DataAccess.pdb

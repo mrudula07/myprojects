@@ -1,0 +1,76 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="ChurchRecordkeeping.Masters.Main" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<%--<head id="Head1" runat="server">
+     <meta http-equiv="X-UA-Compatible" content="IE=8" />
+    <title>Church Financial Recordkeeping</title>
+    <link href="../Style/custom.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="../Style/style.css" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>--%>
+
+<head id="Head2" runat="server">
+    <title></title>
+    <link href="~/Style/site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="Form2" runat="server">
+    <div class="page">
+        <div class="header">
+        <title>Church Financial Recordkeeping</title>
+    <link href="../Style/custom.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="../Style/style.css" type="text/css" />
+            <div class="title">
+                <h1>
+                   Church Financial Recordkeeping
+                </h1>
+            </div>
+            <div class="loginDisplay">
+                <asp:LoginView ID="HeadLoginView" runat="server" EnableViewState="false">
+                    <AnonymousTemplate>
+                        [ <a href="~/Login.aspx" ID="HeadLoginStatus" runat="server" >Log In</a> ]
+                    </AnonymousTemplate>
+                    <LoggedInTemplate>
+                         <%--<span class="bold"><asp:LoginName ID="HeadLoginName"   runat="server" /></span>!--%>
+                        [ <asp:LoginStatus ID="HeadLoginStatus" runat="server" LogoutPageUrl="~/LoginPage.aspx"  LogoutAction="Redirect" LogoutText="Log Out"/> ]
+                    </LoggedInTemplate>
+                </asp:LoginView>
+            </div>
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/UserScreens/memb.aspx" Text="Member"/>
+                        <asp:MenuItem NavigateUrl="~/UserScreens/Fundmenu.aspx" Text="Fund"/>
+                         <asp:MenuItem NavigateUrl="~/UserScreens/Donationmenu.aspx" Text="Donation"/>
+                         <asp:MenuItem NavigateUrl="~/UserScreens/report.aspx" Text="Report"/>
+                         
+                    </Items>
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"/>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        
+    </div>
+    </form>
+</body>
+</html>

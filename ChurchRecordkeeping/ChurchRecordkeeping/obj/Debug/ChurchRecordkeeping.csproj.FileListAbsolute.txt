@@ -1,0 +1,21 @@
+C:\Users\Amit\Documents\Visual Studio 2010\Projects\ChurchRecordkeeping\ChurchRecordkeeping\bin\ChurchRecordkeeping.dll
+C:\Users\Amit\Documents\Visual Studio 2010\Projects\ChurchRecordkeeping\ChurchRecordkeeping\bin\ChurchRecordkeeping.pdb
+C:\Users\Amit\Documents\Visual Studio 2010\Projects\ChurchRecordkeeping\ChurchRecordkeeping\bin\AjaxControlToolkit.dll
+C:\Users\Amit\Documents\Visual Studio 2010\Projects\ChurchRecordkeeping\ChurchRecordkeeping\bin\Telerik.Web.UI.dll
+C:\Users\Amit\Documents\Visual Studio 2010\Projects\ChurchRecordkeeping\ChurchRecordkeeping\bin\Telerik.Web.UI.Skins.dll
+C:\Users\Amit\Documents\Visual Studio 2010\Projects\ChurchRecordkeeping\ChurchRecordkeeping\bin\WPFToolkit.dll
+C:\Users\Amit\Documents\Visual Studio 2010\Projects\ChurchRecordkeeping\ChurchRecordkeeping\bin\WPFToolkit.pdb
+C:\Users\Amit\Documents\Visual Studio 2010\Projects\ChurchRecordkeeping\ChurchRecordkeeping\obj\Debug\ChurchRecordkeeping.dll
+C:\Users\Amit\Documents\Visual Studio 2010\Projects\ChurchRecordkeeping\ChurchRecordkeeping\obj\Debug\ChurchRecordkeeping.pdb
+C:\Users\Amit\Documents\Visual Studio 2010\Projects\ChurchRecordkeeping\ChurchRecordkeeping\obj\Debug\ChurchRecordkeeping.csprojResolveAssemblyReference.cache
+C:\Users\Amit\Documents\Visual Studio 2010\Projects\ChurchRecordkeeping\ChurchRecordkeeping\bin\ChurchRecordkeeping.Business.dll
+C:\Users\Amit\Documents\Visual Studio 2010\Projects\ChurchRecordkeeping\ChurchRecordkeeping\bin\ChurchRecordkeeping.Business.pdb
+D:\LatestCRK\LatestCRK\ChurchRecordkeeping\ChurchRecordkeeping\obj\Debug\ResolveAssemblyReference.cache
+D:\LatestCRK\LatestCRK\ChurchRecordkeeping\ChurchRecordkeeping\bin\ChurchRecordkeeping.dll
+D:\LatestCRK\LatestCRK\ChurchRecordkeeping\ChurchRecordkeeping\bin\ChurchRecordkeeping.pdb
+D:\LatestCRK\LatestCRK\ChurchRecordkeeping\ChurchRecordkeeping\bin\ChurchRecordkeeping.Business.dll
+D:\LatestCRK\LatestCRK\ChurchRecordkeeping\ChurchRecordkeeping\bin\ChurchRecordkeeping.DataAccess.dll
+D:\LatestCRK\LatestCRK\ChurchRecordkeeping\ChurchRecordkeeping\bin\ChurchRecordkeeping.Business.pdb
+D:\LatestCRK\LatestCRK\ChurchRecordkeeping\ChurchRecordkeeping\bin\ChurchRecordkeeping.DataAccess.pdb
+D:\LatestCRK\LatestCRK\ChurchRecordkeeping\ChurchRecordkeeping\obj\Debug\ChurchRecordkeeping.dll
+D:\LatestCRK\LatestCRK\ChurchRecordkeeping\ChurchRecordkeeping\obj\Debug\ChurchRecordkeeping.pdb

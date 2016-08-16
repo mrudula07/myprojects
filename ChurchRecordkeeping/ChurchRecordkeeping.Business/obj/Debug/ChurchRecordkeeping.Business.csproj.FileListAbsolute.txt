@@ -1,0 +1,14 @@
+C:\Users\Amit\Documents\Visual Studio 2010\Projects\ChurchRecordkeeping\ChurchRecordkeeping.Business\bin\Debug\ChurchRecordkeeping.Business.dll
+C:\Users\Amit\Documents\Visual Studio 2010\Projects\ChurchRecordkeeping\ChurchRecordkeeping.Business\bin\Debug\ChurchRecordkeeping.Business.pdb
+C:\Users\Amit\Documents\Visual Studio 2010\Projects\ChurchRecordkeeping\ChurchRecordkeeping.Business\obj\Debug\ChurchRecordkeeping.Business.dll
+C:\Users\Amit\Documents\Visual Studio 2010\Projects\ChurchRecordkeeping\ChurchRecordkeeping.Business\obj\Debug\ChurchRecordkeeping.Business.pdb
+C:\Users\Amit\Documents\Visual Studio 2010\Projects\ChurchRecordkeeping\ChurchRecordkeeping.Business\bin\Debug\ChurchRecordkeeping.DataAccess.dll
+C:\Users\Amit\Documents\Visual Studio 2010\Projects\ChurchRecordkeeping\ChurchRecordkeeping.Business\bin\Debug\ChurchRecordkeeping.DataAccess.pdb
+C:\Users\Amit\Documents\Visual Studio 2010\Projects\ChurchRecordkeeping\ChurchRecordkeeping.Business\obj\Debug\ChurchRecordkeeping.Business.csprojResolveAssemblyReference.cache
+D:\LatestCRK\LatestCRK\ChurchRecordkeeping\ChurchRecordkeeping.Business\obj\Debug\ResolveAssemblyReference.cache
+D:\LatestCRK\LatestCRK\ChurchRecordkeeping\ChurchRecordkeeping.Business\bin\Debug\ChurchRecordkeeping.Business.dll
+D:\LatestCRK\LatestCRK\ChurchRecordkeeping\ChurchRecordkeeping.Business\bin\Debug\ChurchRecordkeeping.Business.pdb
+D:\LatestCRK\LatestCRK\ChurchRecordkeeping\ChurchRecordkeeping.Business\bin\Debug\ChurchRecordkeeping.DataAccess.dll
+D:\LatestCRK\LatestCRK\ChurchRecordkeeping\ChurchRecordkeeping.Business\bin\Debug\ChurchRecordkeeping.DataAccess.pdb
+D:\LatestCRK\LatestCRK\ChurchRecordkeeping\ChurchRecordkeeping.Business\obj\Debug\ChurchRecordkeeping.Business.dll
+D:\LatestCRK\LatestCRK\ChurchRecordkeeping\ChurchRecordkeeping.Business\obj\Debug\ChurchRecordkeeping.Business.pdb
